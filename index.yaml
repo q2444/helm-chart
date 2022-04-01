@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  elasticsearch-curator:
+  - apiVersion: v1
+    appVersion: 5.7.6
+    created: "2022-04-01T20:59:51.088405671+08:00"
+    deprecated: true
+    description: DEPRECATED A Helm chart for Elasticsearch Curator
+    digest: 264a487ea4f561dc2a4457222b2c286d93e69cba8784df3cd69c6fcc9f8e0057
+    home: https://github.com/elastic/curator
+    keywords:
+    - curator
+    - elasticsearch
+    - elasticsearch-curator
+    name: elasticsearch-curator
+    sources:
+    - https://github.com/kubernetes/charts/elasticsearch-curator
+    - https://github.com/pires/docker-elasticsearch-curator
+    urls:
+    - https://yushanjin.github.io/helm-chart/elasticsearch-curator-2.2.3.tgz
+    version: 2.2.3
+generated: "2022-04-01T20:59:51.087186242+08:00"
